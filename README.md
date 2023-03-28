@@ -1,3 +1,3 @@
 # cypress-api-automation
-npm i cypress
-npx cypress open
+###npm i cypress
+###npx cypress open
